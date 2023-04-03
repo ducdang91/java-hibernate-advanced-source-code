@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hibernate-advanced-source-code.iml" filepath="$PROJECT_DIR$/.idea/hibernate-advanced-source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/solution-code-hibernate-hb-01-map-collections-set.iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/solution-code-hibernate-hb-01-map-collections-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/solution-code-hibernate-hb-03-map-collections-map.iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/solution-code-hibernate-hb-03-map-collections-map.iml" />
+    </modules>
+  </component>
+</project>
